@@ -52,7 +52,7 @@
 
 .search_form {
    display: flex;
-   width: 582px;
+   width: 40%;
    flex-direction: column;
    justify-content: center;
 }

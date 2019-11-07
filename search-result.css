@@ -8,6 +8,10 @@
 
 /* HEADER  */
 
+.header {
+   border-bottom: 1px solid #E5E5E5;
+}
+
 .top_header {
    display: flex;
    align-items: center;
@@ -96,6 +100,7 @@
 }
 
 .bottom_navbar .nav_link {
+   display: block;
    padding: 15px 10px;
 }
 
